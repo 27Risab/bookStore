@@ -1,0 +1,18 @@
+[
+    {
+        "id":"0",
+        "name":"Comedy Book",
+        "title":"Lorem, ispum dolor sit amet consectetur adispiticrinf elit.",
+        "price":0,
+        "category":"Entertenment",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1712662204~exp=1712665804~hmac=5f0271f33db48a30af20c786bad33e3741603bba17a811c31f3a4b32cd31b228&w=740"
+    },
+    {
+        "id":"1",
+        "name":"Comedy Book",
+        "title":"Lorem, ispum dolor sit amet consectetur adispiticrinf elit.",
+        "price":0,
+        "category":"Entertenment",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1712662204~exp=1712665804~hmac=5f0271f33db48a30af20c786bad33e3741603bba17a811c31f3a4b32cd31b228&w=740"
+    }
+]
